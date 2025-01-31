@@ -36,6 +36,7 @@ function limparCampo(){
  //    return parseInt(Math.random() * 10 + 1);
  //}
 
+
 function reiniciarJogo(){
     numeroSecreto = gerarNumeroAleatorio(); 
     contador = 1;
@@ -76,11 +77,5 @@ function exibirTextoNaTela(tag, texto) {
              console.log(listaDeNumerosSorteados);
              return numeroEscolhido;
     }
+
  }
-
-
-
-
-
-
-
