@@ -1,6 +1,6 @@
 # 🔥 Jogo do Número Secreto
 
-Este é um projeto de um jogo simples chamado Jogo do Número Secreto. O objetivo do jogo é adivinhar um número aleatório gerado pelo computador, dentro de um intervalo determinado (de 1 a 10). O jogador tem um número limitado de tentativas para acertar o número secreto.
+Este é um projeto de um jogo simples chamado Jogo do Número Secreto. O objetivo do jogo é adivinhar um número aleatório gerado pelo computador, dentro de um intervalo determinado (de 1 a 50). O jogador tem um número limitado de tentativas para acertar o número secreto.
 
 # 🎯 Objetivo do Projeto:
 
