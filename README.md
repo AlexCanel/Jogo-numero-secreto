@@ -25,11 +25,9 @@ JavaScript: Para a lógica do jogo e interação com o usuário.
 
 # ⚙️ Como Rodar o Projeto:
 
-Clone este repositório para o seu computador.
-
 Abra o arquivo index.html em seu navegador de preferência.
 
-Jogue o "Jogo do Número Secreto" diretamente no navegador.
+Jogue o "Jogo do Número Secreto" diretamente no navegador: https://jogo-nine-indol.vercel.app
 
 
 # 🤝 Como Contribuir:
